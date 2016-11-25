@@ -180,7 +180,7 @@ Bradley Efron and Trevor Hastie
 Narasimha Karumanchi
 
 [*Algorithm Design*](https://www.amazon.com/Algorithm-Design-Kleinberg-Tardos/dp/9332518645/ref=la_B001ILIAZ2_1_1?s=books&ie=UTF8&qid=1480107170&sr=1-1),
-Thomas H. Cormen
+Jon Kleinberg and Eva Tardos
 
 [*The Art of Computer Programming, Volumes 1-4A*](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=sr_1_4?ie=UTF8&qid=1480107006&sr=8-4&keywords=algorithm+knuth),
 Donald E. Knuth
