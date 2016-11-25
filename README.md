@@ -153,10 +153,12 @@ Scott Meyers
 Alan A. A. Donovan and Brian W. Kernighan
 
 [*Algorithms Unlocked*](https://www.amazon.com/Algorithms-Unlocked-Press-Thomas-Cormen/dp/0262518805/ref=la_B000AQ24AS_1_2?s=books&ie=UTF8&qid=1480105781&sr=1-2),
+Thomas H. Cormen
 
 [*The D Programming Language*](https://www.amazon.com/D-Programming-Language-Andrei-Alexandrescu/dp/0321635361/ref=asap_bc?ie=UTF8),
+Andrei Alexandrescu
 
-[*Algorithms in C++, Parts 1-4](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/ref=la_B000AQ4JCO_1_2?s=books&ie=UTF8&qid=1480106012&sr=1-2),
+[*Algorithms in C++, Parts 1-4*](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/ref=la_B000AQ4JCO_1_2?s=books&ie=UTF8&qid=1480106012&sr=1-2),
 Robert Sedgewick
 
 [*Algorithms in C++ Part 5: Graph Algorithms*](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/ref=la_B000AQ4JCO_1_6?s=books&ie=UTF8&qid=1480106012&sr=1-6),
